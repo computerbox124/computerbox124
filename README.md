@@ -1,16 +1,21 @@
-### Hi there 👋
+<a>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=computerbox124&theme=gruvbox">
+</a>
 
-<!--
-**computerbox124/computerbox124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>
+Huseyn Hajiyev.
+</h1>
 
-Here are some ideas to get you started:
+<h2>
+	I am a...
+</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Competitive programmer
+- Full Stack Developer
+- Sophomore at ADA University
+
+### Now Playing 🎧
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/31k2yzq2eyvgl3dci7ecuzmi3f4a)
+<br/>
+---
