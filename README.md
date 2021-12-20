@@ -11,7 +11,7 @@ Huseyn Hajiyev.
 </h2>
 
 - Competitive programmer
-- Full Stack Developer
+- Full Stack Junior Developer
 - Sophomore at ADA University
 
 ### Now Playing 🎧
