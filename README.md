@@ -16,6 +16,6 @@ Huseyn Hajiyev.
 
 ### Now Playing 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/31k2yzq2eyvgl3dci7ecuzmi3f4a)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31k2yzq2eyvgl3dci7ecuzmi3f4a&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 <br/>
 ---
