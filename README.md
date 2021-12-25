@@ -11,6 +11,6 @@ Huseyn Hajiyev.
 </h2>
 
 - Competitive programmer
-- Full Stack Junior Developer
+- BackEnd Developer
 - Sophomore at ADA University
 
