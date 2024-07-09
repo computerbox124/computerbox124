@@ -12,5 +12,5 @@ Huseyn Hajiyev.
 
 - Competitive programmer: [My Career](https://clist.by/coder/computerbox/)
 - BackEnd Developer
-- Third year student at ADA University
+- Computer Science student at ADA University
 
