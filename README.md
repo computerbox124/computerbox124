@@ -72,22 +72,26 @@ I'm the **CEO & Co-founder of [CodeAny](https://codeany.org)** — a programming
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/computerbox124">
-    <img src="https://github-readme-stats.vercel.app/api?username=computerbox124&show_icons=true&hide_border=true&theme=gruvbox&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/computerbox124">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=computerbox124&layout=compact&hide_border=true&theme=gruvbox&langs_count=8" height="180" alt="Top Languages" />
-  </a>
+
+[![Total Stars](https://img.shields.io/github/stars/computerbox124?style=for-the-badge&logo=github&color=FFD700)](https://github.com/computerbox124)
+[![Public Repos](https://img.shields.io/badge/Public%20Repos-10+-blue?style=for-the-badge&logo=github)](https://github.com/computerbox124?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/computerbox124?style=for-the-badge&logo=github&color=green)](https://github.com/computerbox124)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/computerbox)
+
 </div>
 
 <br>
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements & Certifications
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=computerbox124&theme=gruvbox&no-frame=true&column=4&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
-  </a>
+
+![ICPC 2020-2021 Champion](https://img.shields.io/badge/ICPC%202020--2021-Azerbaijan%20Champion-gold?style=for-the-badge)
+![IOI 2019](https://img.shields.io/badge/IOI%202019-Azerbaijan%20Representative-blue?style=for-the-badge)
+![EJOI 2017](https://img.shields.io/badge/EJOI%202017-Participant-blue?style=for-the-badge)
+![WIPO Gold Medal](https://img.shields.io/badge/WIPO-Gold%20Medalist%202015-gold?style=for-the-badge)
+![Republican Olympiad](https://img.shields.io/badge/Azerbaijan%20Republican%20Olympiad-Gold%20Medalist-gold?style=for-the-badge)
+
 </div>
 
 <br>
@@ -131,15 +135,6 @@ FPS game using X-Ray Engine (S.T.A.L.K.E.R. engine).
 
 <br>
 
-## 🏅 Achievements
-
-- 🥇 **WIPO Gold Medal (2015)** — World Intellectual Property Organization for developing an educational application
-- 🏆 **ICPC 2020-2021** — Azerbaijani Regional Round Champion
-- 🌍 **IOI 2019** — International Olympiad in Informatics, Azerbaijan Representative
-- 🌍 **EJOI 2017** — European Junior Olympiad in Informatics, Sofia, Bulgaria
-- 🥇 **Gold Medal** — Azerbaijani Republican Olympiad in Informatics
-
-<br>
 
 ## 🎓 Education
 
