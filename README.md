@@ -72,8 +72,12 @@ I'm the **CEO & Co-founder of [CodeAny](https://codeany.org)** — a programming
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=computerbox124&show_icons=true&hide_border=true&theme=gruvbox" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=computerbox124&layout=compact&hide_border=true&theme=gruvbox" height="180" alt="Top Languages" />
+  <a href="https://github.com/computerbox124">
+    <img src="https://github-readme-stats.vercel.app/api?username=computerbox124&show_icons=true&hide_border=true&theme=gruvbox&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/computerbox124">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=computerbox124&layout=compact&hide_border=true&theme=gruvbox&langs_count=8" height="180" alt="Top Languages" />
+  </a>
 </div>
 
 <br>
@@ -81,7 +85,9 @@ I'm the **CEO & Co-founder of [CodeAny](https://codeany.org)** — a programming
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=computerbox124&theme=gruvbox&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=computerbox124&theme=gruvbox&no-frame=true&column=4&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
+  </a>
 </div>
 
 <br>
