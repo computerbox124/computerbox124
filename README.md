@@ -7,7 +7,6 @@
 </div>
 
 <br>
-
 ## 👨‍💻 About Me
 
 I'm the **CEO & Co-founder of [CodeAny](https://codeany.org)** — a programming competition platform that has hosted major events like **IDDA Cup**, **Azercell Cup**, and **ARTI**. With a strong foundation in competitive programming, I specialize in building scalable systems and AI-powered applications.
