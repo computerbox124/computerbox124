@@ -118,7 +118,7 @@ AI-generated interactive programming video tutorials.
 - **Stack:** Python (LangGraph), C++, Vue3, AnimeJS, Django
 
 ### [BuildAny](https://github.com/computerbox124)
-AI-first design system platform.
+AI-first design system platform. Project is frozen and technology is moving to a new project which will be announced soon (probably open-sourced).
 - **Stack:** LangChain, FastAPI, kimi-k2.5, Vue3
 
 ### [Cursly](https://github.com/computerbox124)
